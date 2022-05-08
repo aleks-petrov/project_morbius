@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "18bb430ff6c81ab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ddb0ddf32072e4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "project_morbius/presentation_order_types.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3281a5f57c5230f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aedc0e9482815fee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "051e04ed53c6d6c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "43d5a7b5f3f0da1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57fbec784861377c",
+    "type": "split",
+    "children": [
+      {
+        "id": "02911dfdd202ef01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8fcbfe0040b8ce8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "project_morbius/presentation_order_types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1ddb0ddf32072e4f",
+  "lastOpenFiles": [
+    "project_morbius/presentation_order_types.md",
+    "project_morbius/order_types_highlights.md",
+    "project_morbius/pm_sessions/pm_session2(5-8).md",
+    "project_morbius/pm_sessions/pm_session1_(5-7).md"
+  ]
+}
