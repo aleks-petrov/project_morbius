@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "project_morbius/presentation_order_types.md",
+            "file": "project_morbius/project_morbius_guideline.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project_morbius/presentation_order_types.md",
+                "file": "project_morbius/project_morbius_guideline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,9 @@
   },
   "active": "1ddb0ddf32072e4f",
   "lastOpenFiles": [
+    "project_morbius/project_morbius_guideline.md",
+    "project_morbius/reference_texts/algo_trading/order_types_highlights.md",
     "project_morbius/presentation_order_types.md",
-    "project_morbius/order_types_highlights.md",
     "project_morbius/pm_sessions/pm_session2(5-8).md",
     "project_morbius/pm_sessions/pm_session1_(5-7).md"
   ]
