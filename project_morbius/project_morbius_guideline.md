@@ -20,7 +20,7 @@
 6. Live-test trading strategy using paper trading
 7. Compile documentation, create write-up
 
-### Other possible ideas
+### Alternatives
 - Work towards an options straddle strategy (strategy focused on spreads)
 - Perform options pricing (Black-Scholes or Binomial) in opportune market-cap/industry/volume-level/etc. and exploit arbitrages (eg. more mispricings in iliquid market, high risk-high return)
 - Perform delta hedging using options pricing model to exploit time-decay (theta-gang)
