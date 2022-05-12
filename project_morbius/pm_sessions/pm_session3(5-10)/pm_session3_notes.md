@@ -11,6 +11,9 @@
 	- Sentiment Analysis (eg. selling covered puts on newest trend in r/WSB or trading volatility, etc.)
 	- Computation of financial ratio and economic indicators as supplemental screeners
 
+- Cointegration Testing
+	- Implementation, intuition, references
+
 ## Agenda for upcoming session 4
  - Matrix Calculation
 	- Easier calculation on FPGA for things like portfolio allocation, regressions, etc.

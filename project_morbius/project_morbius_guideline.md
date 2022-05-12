@@ -12,13 +12,14 @@
 8. Compile documentation, create write-up 
 
 ### Stage 2
-1. Develop system to find candidate stocks of pairs-trading using Python/Fundamentals (opportunistic trading strategy based on spreads wherein investor takes long-short strategy and is market-neutral and profits on reversion to spread of both stocks). Could be either risk or statistical arbitrage
+1. Develop system to find candidate stocks of pairs-trading using Python/Fundamentals (opportunistic trading strategy based on spreads wherein investor takes long-short strategy and is market-neutral and profits on reversion to mean spread of both stocks). Could be either risk or statistical arbitrage
 2. Perform cointegration test using Python to verify candidacy for pairs-trading strategy
 3. Verify sufficient volume (via forecast) and other market conditions to be able to achieve a market-neutral long-short position in the pair-trading candidates
-4. Create FPGA algorithm to execute contingent orders that ensures orders are linked and legging occurs commensurately
-5. Back-test strategy on candidate stocks
-6. Live-test trading strategy using paper trading
-7. Compile documentation, create write-up
+4. Use market regime testing to verify suitable conditions
+5. Create FPGA algorithm to execute contingent orders that ensures orders are linked and legging occurs commensurately
+6. Back-test strategy on candidate stocks
+7. Live-test trading strategy using paper trading
+8. Compile documentation, create write-up
 
 ### Alternatives
 - Work towards an options straddle strategy (strategy focused on spreads)
